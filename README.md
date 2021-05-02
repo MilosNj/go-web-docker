@@ -1,6 +1,6 @@
 # Example of a Dockerized Go Application
 
-A simple Dockerized Go App
+A simple Dockerized Go Beego framework app
 
 ## Docker Images
 
